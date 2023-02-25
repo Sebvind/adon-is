@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "360095697104",
+    "project_id": "adon-is",
+    "storage_bucket": "adon-is.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360095697104:android:54032261eaab3b5b0ab6d5",
+        "android_client_info": {
+          "package_name": "adonis.health.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360095697104-1qupqr7jdc8b0lkguuksne1rif5n33l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "adonis.health.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "360095697104-dki06fdagrnose70seutp4mns28c9t1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmRN6GBYWO0FT5xvqpm443KMqkl9aYqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360095697104-dki06fdagrnose70seutp4mns28c9t1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360095697104-6nhklu3d78nsvds5tp0d5ls1hvsq3id0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kaleo.chat.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360095697104:android:21c7de34ad5215090ab6d5",
+        "android_client_info": {
+          "package_name": "kaleo.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360095697104-dki06fdagrnose70seutp4mns28c9t1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmRN6GBYWO0FT5xvqpm443KMqkl9aYqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360095697104-dki06fdagrnose70seutp4mns28c9t1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360095697104-6nhklu3d78nsvds5tp0d5ls1hvsq3id0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kaleo.chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
